@@ -40,6 +40,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{D1FD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JunSystem_1", "JunSystem_1\JunSystem_1.csproj", "{C9202571-AA56-44CC-AE1D-B6091DAB231F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDelete_1", "ToDelete_1\ToDelete_1.csproj", "{599C431E-FFA6-432F-83CF-26F957DBE15F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{C9202571-AA56-44CC-AE1D-B6091DAB231F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9202571-AA56-44CC-AE1D-B6091DAB231F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9202571-AA56-44CC-AE1D-B6091DAB231F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599C431E-FFA6-432F-83CF-26F957DBE15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599C431E-FFA6-432F-83CF-26F957DBE15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599C431E-FFA6-432F-83CF-26F957DBE15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599C431E-FFA6-432F-83CF-26F957DBE15F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{EF982959-9B35-4A42-BB97-3993ECCF2B2D} = {43820E86-BC99-478B-8F4A-6F602D50EF85}
 		{D1FDD915-F637-4D57-AADE-1BFE345DAA2E} = {EF982959-9B35-4A42-BB97-3993ECCF2B2D}
 		{C9202571-AA56-44CC-AE1D-B6091DAB231F} = {D1FDD915-F637-4D57-AADE-1BFE345DAA2E}
+		{599C431E-FFA6-432F-83CF-26F957DBE15F} = {D1FDD915-F637-4D57-AADE-1BFE345DAA2E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7571D8A6-32E3-4765-B252-C4D24612118B}
